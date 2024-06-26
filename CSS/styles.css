@@ -1,0 +1,27 @@
+/* header{
+    height: 100px;
+    background-color: rgb(196, 160, 229);
+    position: relative;
+} */
+
+/* nav{
+    position: absolute;
+    top: 40px;
+    left: 20px;
+}
+
+.botones{
+    background-color: blueviolet;
+    border-radius: 10px;
+}
+
+.botones:hover{
+    background-color: grey;
+    transform: scale(2);
+
+} */
+
+body{
+    background-color: white;
+    height: 200px;
+}
